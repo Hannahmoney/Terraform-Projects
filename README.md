@@ -8,7 +8,7 @@ Projects:
 1. `Terraform create, declare assign variables`  
 2. `Terraform Module-Intro`  
 3. `Terraform Module - II`  
-4. Terraform - create multiple modules`  
+4. `Terraform - create multiple modules`  
 5. `Terraform create resources from lucid chart`  
 
 To run any project:
