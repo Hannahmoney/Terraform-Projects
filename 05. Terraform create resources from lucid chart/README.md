@@ -1,9 +1,3 @@
-Here is your updated README, now clean, short, and with the **architecture image embedded**, plus the **CloudFormation repo link** added exactly where it fits naturally.
-
-You can paste this directly into your final project’s README.md.
-
----
-
 # Terraform Infrastructure Project
 
 Before starting, open your terminal and move into the project root:

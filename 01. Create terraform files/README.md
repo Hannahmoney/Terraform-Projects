@@ -1,7 +1,3 @@
-Here is the full combined README you can copy and paste directly into your repo.
-
----
-
 # Terraform Project 1
 
 This folder contains three small exercises that introduce how Terraform handles variables.

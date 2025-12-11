@@ -1,7 +1,3 @@
-Here’s a README you can drop straight into Folder 2.
-
----
-
 # Terraform Project 2
 
 This project shows how to use **one Terraform module** to create two AWS resources:
