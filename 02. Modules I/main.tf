@@ -10,8 +10,3 @@ module "s3_bucket" {
   ami_id        = "ami-0fa3fe0fa7920f68e" 
 }
 
-# module "ec2_instance" {
-#   source        = "./modules"
-#   instance_type = "t2.micro"
-#   ami_id        = "ami-0c55b159cbfafe1f0" # Example AMI ID for us-east-1
-# }

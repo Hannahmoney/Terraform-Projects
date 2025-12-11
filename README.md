@@ -18,3 +18,12 @@ cd "<project-folder>"
 terraform init
 terraform plan
 terraform apply
+```
+
+## Clean up
+
+To avoid charges, destroy the resources when you are done:
+
+```bash
+terraform destroy
+```

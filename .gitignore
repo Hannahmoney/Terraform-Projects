@@ -6,6 +6,6 @@
 *.tfstate
 *.tfstate.*
 
-# Local variable files that may contain secrets
-terraform.tfvars
-*.auto.tfvars
+*.pem
+id_rsa
+id_rsa.pub

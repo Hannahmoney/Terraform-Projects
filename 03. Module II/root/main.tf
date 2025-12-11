@@ -9,10 +9,8 @@ module "s3_bucket" {
   bucket_name_child2 = var.bucket_name_root2
 
 }
-
-# module "instance" {
-#   source      = "./modules/ec2"
-#   instance_type = var.instance_type
-#   ami_id        = var.ami_id
-  
-# }
+module "ec2_instance" {
+  source        = "../modules/ec2"
+  instance_type = var.instance_type_root
+  ami_id        = var.ami_id_root
+}
