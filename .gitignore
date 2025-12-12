@@ -6,6 +6,7 @@
 *.tfstate
 *.tfstate.*
 
-*.pem
-id_rsa
-id_rsa.pub
+# tfvars files
+*.tfvars
+
+
