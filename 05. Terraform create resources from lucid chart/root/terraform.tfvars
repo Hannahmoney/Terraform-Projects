@@ -18,7 +18,7 @@ alb_tg_name = "lucid-alb-tg"
 name_prefix = "lucid-ec2"
 instance_type = "t2.micro"
 ami_id = "ami-0ff8a91507f77f867" 
-key_name = "hannh1"
+
 
 # S3
 bucket_name = "lucid-terraform-bucket-1234567890"
