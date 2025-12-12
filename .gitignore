@@ -5,8 +5,3 @@
 # Terraform state
 *.tfstate
 *.tfstate.*
-
-# tfvars files
-*.tfvars
-
-
