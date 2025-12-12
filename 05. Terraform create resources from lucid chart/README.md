@@ -7,7 +7,10 @@ cd /path/to/your/terraform/root
 ```
 
 Below is the architecture diagram representing the full VPC, subnets, NAT gateway, ALB, Auto Scaling Group and S3 bucket used in this Terraform project:
-![VPC Diagram](assets/images/VPC Peering - Page 2.jpeg)
+
+
+![Infrastructure Diagram](assets/images/lucidiamage.jpeg)
+
 
 
 This repository contains a multi stage AWS infrastructure stack written in Terraform.
